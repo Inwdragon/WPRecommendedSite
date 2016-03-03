@@ -7,3 +7,8 @@ Recommended Site for SEO
 * Version: 1.0.1
 * Author: mistermon
 * Author URI: http://mistermon.com/
+
+# How to install
+````
+soon...
+````
