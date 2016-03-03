@@ -10,5 +10,5 @@ Recommended Site for SEO
 
 # How to install
 ````
-soon...
+curl https://gist.githubusercontent.com/Inwdragon/4eecc5f40379257ec9e6/raw/69a0890d95ebcb2c6a38a93cccd2008ac7c0daed/Install-eecommended-site-plugin-for-wordpress.bash | sh
 ````
